@@ -8,7 +8,7 @@
     "url": "git+https://github.com/xieyx/vuepress-plugin-git-contributor.git"
   },
   "author": "xieyx",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/xieyx/vuepress-plugin-git-contributor/issues"
   },
