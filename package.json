@@ -1,0 +1,16 @@
+{
+  "name": "vuepress-plugin-git-contributor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xieyx/vuepress-plugin-git-contributor.git"
+  },
+  "author": "xieyx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xieyx/vuepress-plugin-git-contributor/issues"
+  },
+  "homepage": "https://github.com/xieyx/vuepress-plugin-git-contributor#readme"
+}
